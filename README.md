@@ -1,4 +1,5 @@
-# Small Docker Image for use with python, includes a few libraries
+# Small Docker Image for python apps
+includes a few libraries, located in [requirements.txt](https://github.com/JacobMannix/docker_python/blob/master/.devcontainer/requirements.txt)
 - [Github](https://github.com/JacobMannix/docker_python)
 - [Docker Hub Image](https://hub.docker.com/repository/docker/jmannix3/docker_python)
 
