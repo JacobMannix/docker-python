@@ -12,7 +12,7 @@ includes a few libraries, to add or remove libraries see [requirements.txt](.dev
 ---
 
 ### Code Folder
-Create a project folder in the [code](https://github.com/JacobMannix/docker_python/tree/master/code) folder and insert all necessary files, place local modules in the [modules folder](https://github.com/JacobMannix/docker_python/tree/master/code/modules) for use in multiple apps. Add any necessary libraries to [requirements.txt](https://github.com/JacobMannix/docker_python/blob/master/.devcontainer/requirements.txt).
+Create a project folder in the [code](code) folder and insert all necessary files, place local modules in the [modules folder](code/modules) for use in multiple apps. Add any necessary libraries to [requirements.txt](.devcontainer/requirements.txt).
 
 ---
 
