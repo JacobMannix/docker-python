@@ -12,13 +12,15 @@ WORKDIR /python/app
 COPY /.devcontainer/requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
+ADD ./code/ /python/code
+
 # RUN apt-get update && \
 #     apt-get install -y --no-install-recommends curl python-pip && \
 #     pip install --no-cache-dir -r requirements.txt && \
 #     apt-get remove -y python-pip curl && \
 #     rm -rf /var/lib/apt/lists/*
 
-ADD ./code/ /python/code
+
 # COPY . .
 
 # CMD [ "python", "./your-daemon-or-script.py" ]
