@@ -1,6 +1,3 @@
 # Python Dependencies
-requests
-bs4
-pandas
-tweepy
-python-dotenv
+# add necessary libraries for your python app here, uncomment
+# pandas

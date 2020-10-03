@@ -12,6 +12,7 @@ WORKDIR /python/app
 COPY /.devcontainer/requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
+# Add code folder to docker image
 ADD ./code/ /python/code
 
 # RUN apt-get update && \
