@@ -1,7 +1,7 @@
 # Small Docker Image for python apps
-[![GitHub](https://img.shields.io/github/license/jacobmannix/cloudflare-analytics-notification?color=blue)](LICENSE)
-[![GitHub top language](https://img.shields.io/github/languages/top/jacobmannix/cloudflare-analytics-notification)](https://github.com/JacobMannix/cloudflare-analytics-notification)
-[![GitHub last commit](https://img.shields.io/github/last-commit/jacobmannix/cloudflare-analytics-notification)](https://github.com/JacobMannix/cloudflare-analytics-notification/commits/master)
+[![GitHub](https://img.shields.io/github/license/jacobmannix/docker-python?color=blue)](LICENSE)
+[![GitHub top language](https://img.shields.io/github/languages/top/jacobmannix/docker-python)](https://github.com/JacobMannix/docker-python)
+[![GitHub last commit](https://img.shields.io/github/last-commit/jacobmannix/docker-python)](https://github.com/JacobMannix/docker-python/commits/master)
 
 > <b> A slimmed docker image with the option to add libraries </b>
 
